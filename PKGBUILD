@@ -16,7 +16,7 @@ arch=("x86_64")
 url="https://www.synfig.org/"
 license=("GPL2")
 # groups=()
-depends=("bash" "bzip2" "cairo" "gtk3" "gtkmm3" "sdl2" "sdl2_mixer" "zlib")
+depends=("bash")
 # optdepends=()
 makedepends=("cmake" "git")
 # checkdepends=()
@@ -49,7 +49,7 @@ sha256sums=('122cb3ea04ec91ef428695c84fc6b42dbdd54641ab75a40705d1d0ea9377a8f1'
             '05c7cc70a041a14120577ebbccf0c8c53b93d2cfa55a8b4df05e2d1227de356a'
             'e4352b935cf7fefd456c571cf6724efe0e824694d770523e056bb775f8a20f3a'
             '17c68c0efaca0bd675b4663940a8e25ae083d12728c74e016b06a6b7f37b1a9d'
-            '9a1f6c008ca28e96462f18e432b108826ab8c5142e204bd420bc540ec3a28382'
+            '64cbbcc428303bd68225765f9be5b0ca7ad301ebe1c8fa2c39cefece1868a28e'
             '06dee73b7922bda9a1e0fcca99947a352ba9e8ec0dab8d8c1b5cf90719440fa0'
             'dbe381b0468a1b4d74a246970652dc65e841fda4ea4a9d134a7b839324363b07'
             'd461fb8cef3e000e54b234db2e18c8ffe17b76ead66233661e938bf5aeef5430'
