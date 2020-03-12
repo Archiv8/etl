@@ -20,6 +20,21 @@ All notable changes to the project are documented in this file using rules based
 | ------- | ---------- | ----------------------------------------------------- |
 |         |            |                                                       |
 
+### :tada: &#91;1.0.1&#93; - 2020-03-12
+
+### This release addresses
+
++ Tidy dependencies
+
+### This release includes
+
+| Commit  | Date       | Title / Overview                                      |
+| ------- | ---------- | ----------------------------------------------------- |
+|      +2 | 2020-03-12 | :cop: SEC(integ): Update SHA sums                     |
+|      +1 | 2020-03-12 | :date: DOC(change): Update changelog                  |
+| eee8dee | 2020-03-12 | :shower: TIDY: Remove unneeded dependencies           |
+| bc76a80 | 2020-03-12 | :shower: TIDY: Remove unneeded dependencies           |
+
 ### :tada: &#91;1.0.0&#93; - 2020-02-15
 
 ### This release addresses
@@ -30,7 +45,7 @@ All notable changes to the project are documented in this file using rules based
 
 | Commit  | Date       | Title / Overview                                      |
 | ------- | ---------- | ----------------------------------------------------- |
-|      +1 | 2020-03-11 | :tada: INIT: Initial upload                           |
+| aa99f2c | 2020-03-11 | :tada: INIT: Initial upload                           |
 
 ---
 
