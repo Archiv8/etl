@@ -19,13 +19,7 @@ _**The base-devel group needs also to be installed prior to building this packag
 ### Dependencies
 
 + _**Arch Linux**_
-  + bzip2
-  + cairo
-  + gtk3
-  + gtkmm3
-  + sdl2
-  + sdl2_mixer
-  + zlib
+  + bash
 + _**AUR**_
 + _**Archiv8**_
 
