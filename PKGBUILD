@@ -7,7 +7,7 @@ _partname="etl"
 # _cvsname=""
 
 # pkgbase=
-pkgname="${_partname}"
+pkgname="${_relname}-${_partname}"
 pkgver=1.3.12
 pkgrel=1
 # epoch=
@@ -45,18 +45,18 @@ source=(
 # noextract=()
 # validpgpkeys=()
 sha256sums=('122cb3ea04ec91ef428695c84fc6b42dbdd54641ab75a40705d1d0ea9377a8f1'
-            'd15fbde7fb1ddb97bc52e6d2d23da361c9582b8030692bebc6727766a9a117b4'
-            '2bce45f638fc47510e979854b61ea0a0d5f3f3caeeab5c7beb8880232c8560dc'
-            'e4352b935cf7fefd456c571cf6724efe0e824694d770523e056bb775f8a20f3a'
-            '17c68c0efaca0bd675b4663940a8e25ae083d12728c74e016b06a6b7f37b1a9d'
-            '64cbbcc428303bd68225765f9be5b0ca7ad301ebe1c8fa2c39cefece1868a28e'
+            'ef1261bfd3ba5f97c93ae108adef214378a3403e40583e5cd2711db76a1ec55f'
+            '7baadf79025fc3a805b2b2482cb2098fd622c85e06f2def5e983639782f2a243'
+            '7369b548986558e64d3c604845cf96c2bc58cc05d887a03bf699cd1fbafd51cd'
+            '4a7ecc8c3afa6dbdfd44358fe1aed9494bd61427f149f2f85cae8f2595557a42'
+            'f1885f92e6cfcbe1ff7f487ba9de58f130e9a7448f2729ac5b5c6f0b721e07c0'
             '06dee73b7922bda9a1e0fcca99947a352ba9e8ec0dab8d8c1b5cf90719440fa0'
-            'dbe381b0468a1b4d74a246970652dc65e841fda4ea4a9d134a7b839324363b07'
-            'd461fb8cef3e000e54b234db2e18c8ffe17b76ead66233661e938bf5aeef5430'
+            '063660e42a1cc61884498d56291da8ecbe0c681757abc83086cfa7223275f9b5'
+            '760be9f70ac46a75ccb64f6d141ca86ae348004f749a2680cbd549712ef66501'
             '29a3af9e047893dbc45dd5d23c22effab400e9f5bdc38983f9288749ec13611e'
-            'e1acb36a666a96b2c651213691d5cc1f1f4aa011c729625553554be341596c0c'
-            '9a041d8ad3a1fd89f87418350fb11e095eae70fed33069bcb57e713b39eb4557'
-            '4181d0bd7df6c1e360a7efae3db34f93fdfbc0aa3a051d98dceab837207be35b')
+            '002a58e22cac6759bc4849f3d00712dc271720b57ba355f37fba18757b2ff613'
+            '3b9933c5923988d05782402dfeb1d0007cb681e4c256bee567d1a59e05d746a0'
+            '33a722e4727419d600c596a0a8e1ab73d6067ea4011ccaf5b9bfc3b57464c534')
 
 prepare () {
 
