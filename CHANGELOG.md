@@ -22,11 +22,11 @@ All notable changes to the project are documented in this file using rules based
 
 ### :tada: &#91;1.0.1&#93; - 2020-03-12
 
-### This release addresses
+**This release addresses**
 
 + Tidy dependencies
 
-### This release includes
+**This release includes**
 
 | Commit  | Date       | Title / Overview                                      |
 | ------- | ---------- | ----------------------------------------------------- |
@@ -37,11 +37,11 @@ All notable changes to the project are documented in this file using rules based
 
 ### :tada: &#91;1.0.0&#93; - 2020-02-15
 
-### This release addresses
+**This release addresses**
 
 + Initialize repository and upload files
 
-### This release includes
+**This release includes**
 
 | Commit  | Date       | Title / Overview                                      |
 | ------- | ---------- | ----------------------------------------------------- |
@@ -74,17 +74,13 @@ For information on licensing see [LICENSE.md](LICENSE.md)
 [mit-badge]: https://img.shields.io/badge/License-MIT-informational.svg
 [semver-badge]: https://img.shields.io/badge/Semantic%20Versioning-2.0.0-informational.svg
 
-[cc-image]: https://i.creativecommons.org/l/by-sa/4.0/80x15.png
-
 [arch-url]: https://www.archlinux.org/
 [a8-url]: https://archiv8.github.io/
 [a8-contrib-url]: https://github.com/Archiv8/etl/people
-[a8-issue-url]: https://github.com/Archiv8/etl/issues
 [cc-terms-url]: http://creativecommons.org/licenses/by-sa/4.0/
 [change-url]: https://keepachangelog.com
 [commits-url]: https://conventionalcommits.org
 [gitter-url]: https://gitter.im/Archiv8/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
 [mit-url]: https://opensource.org/licenses/MIT
 [semver-url]: https://semver.org
-[semver-spec-url]: https://semver.org/spec/v2.0.0.html
 [upstream-url]: https://www.synfig.org/
