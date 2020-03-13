@@ -86,15 +86,12 @@ For information on licensing see [LICENSE.md](LICENSE.md)
 [mit-badge]: https://img.shields.io/badge/License-MIT-informational.svg
 [semver-badge]: https://img.shields.io/badge/Semantic%20Versioning-2.0.0-informational.svg
 
-[cc-image]: https://i.creativecommons.org/l/by-sa/4.0/80x15.png
-
 [arch-local-url]: https://wiki.archlinux.org/index.php/Pacman/Tips_and_tricks#Custom_local_repository
 [arch-url]: https://www.archlinux.org/
 [aur-url]: https://aur.archlinux.org/
 [aur-info-url]:https://wiki.archlinux.org/index.php/Arch_User_Repository
 [a8-url]: https://archiv8.github.io/
 [a8-contrib-url]: https://github.com/Archiv8/etl/people
-[a8-issue-url]: https://github.com/Archiv8/etl/issues
 [a8-latest-url]: https://github.com/Archiv8/nodejs-remark-preset-lint-recommended/releases
 [cc-terms-url]: http://creativecommons.org/licenses/by-sa/4.0/
 [change-url]: https://keepachangelog.com

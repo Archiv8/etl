@@ -227,12 +227,9 @@ For information on licensing see [LICENSE.md](LICENSE.md)
 [mit-badge]: https://img.shields.io/badge/License-MIT-informational.svg
 [semver-badge]: https://img.shields.io/badge/Semantic%20Versioning-2.0.0-informational.svg
 
-[cc-image]: https://i.creativecommons.org/l/by-sa/4.0/80x15.png
-
 [arch-url]: https://www.archlinux.org/
 [a8-url]: https://archiv8.github.io/
 [a8-contrib-url]: https://github.com/Archiv8/etl/people
-[a8-issue-url]: https://github.com/Archiv8/etl/issues
 [cc-compat-url]: http://creativecommons.org/compatiblelicenses
 [cc-consider-url]: http://wiki.creativecommons.org/Considerations_for_Licensers_and_licensees#Considerations_for_Licensers
 [cc-terms-url]: http://creativecommons.org/licenses/by-sa/4.0/
@@ -241,7 +238,6 @@ For information on licensing see [LICENSE.md](LICENSE.md)
 [gitter-url]: https://gitter.im/Archiv8/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
 [mit-url]: https://opensource.org/licenses/MIT
 [semver-url]: https://semver.org
-[semver-spec-url]: https://semver.org/spec/v2.0.0.html
 [upstream-url]: https://www.synfig.org/
 [wipo-url]: https://www.wipo.int/
 [96-9-ec]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:31996L0009&from=EN

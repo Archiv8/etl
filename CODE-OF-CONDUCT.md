@@ -119,12 +119,9 @@ For information on licensing see [LICENSE.md](LICENSE.md)
 [mit-badge]: https://img.shields.io/badge/License-MIT-informational.svg
 [semver-badge]: https://img.shields.io/badge/Semantic%20Versioning-2.0.0-informational.svg
 
-[cc-image]: https://i.creativecommons.org/l/by-sa/4.0/80x15.png
-
 [arch-url]: https://www.archlinux.org/
 [a8-url]: https://archiv8.github.io/
 [a8-contrib-url]: https://github.com/Archiv8/etl/people
-[a8-issue-url]: https://github.com/Archiv8/etl/issues
 [cc-terms-url]: http://creativecommons.org/licenses/by-sa/4.0/
 [change-url]: https://keepachangelog.com
 [commits-url]: https://conventionalcommits.org
