@@ -43,7 +43,7 @@ _Exploring and Sharing Custom [Arch Linux][arch-url] PKGBUILDs_
 + Ensure all dependencies that are not present in the main Arch Linux repositories are installed. (It make be necessary to run pacman -Syy to refresh the package list before proceeding to the next step)
 + Extract the package
 + Switch to the package's directory
-+ Make any changes to the configuration options in the PKGBUILD and save, [see above][#configure-optional]
++ Make any changes to the configuration options in the PKGBUILD and save, [see above](#configure-optional)
 + Run makepkg with the -s (--syncdeps) Switch
 + When the package is build run pacman -U /path/to/mypackage-9.1-1.tar.zst.
 
@@ -54,7 +54,7 @@ _Exploring and Sharing Custom [Arch Linux][arch-url] PKGBUILDs_
 + Ensure aurutils has access to all the packages that are required.  Creating a [custom local repository][arch-local-url] and including packages that are from AUR or elsewhere is recommended as, _aur build_ has no access to local builds.  
 + Extract the package
 + Switch to the package's directory
-+ Make any changes to the configuration options in the PKGBUILD and save, [see above][#Configure-Optional]
++ Make any changes to the configuration options in the PKGBUILD and save, [see above](#configure-optional)
 + Run _aur build -d test -cfR --pacman-conf=/usr/share/devtools/pacman_test.conf_ or something tailored to your needs. The package will be built and added to the local repository.
 + Refresh repository contents, e.g. pacman -Syy
 + Install your package, e.g. pacman -S my-package
@@ -91,7 +91,7 @@ For information on licensing see [LICENSE.md](LICENSE.md)
 [aur-url]: https://aur.archlinux.org/
 [aur-info-url]:https://wiki.archlinux.org/index.php/Arch_User_Repository
 [a8-url]: https://archiv8.github.io/
-[a8-contrib-url]: https://github.com/Archiv8/etl/people
+[a8-contrib-url]: https://github.com/Archiv8/synfig-etl/people
 [a8-latest-url]: https://github.com/Archiv8/nodejs-remark-preset-lint-recommended/releases
 [cc-terms-url]: http://creativecommons.org/licenses/by-sa/4.0/
 [change-url]: https://keepachangelog.com

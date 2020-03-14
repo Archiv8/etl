@@ -18,7 +18,8 @@ The following has been taken from _./configure --help=short_
 
 Configuration of Extended Template Library 1.3.12:
 
-Optional Features:
+### Optional Features:
+
 \-\-disable-option-checking                                   ignore unrecognized \-\-enable/\-\-with options
 \-\-disable-FEATURE                                           do not include FEATURE (same as \-\-enable-FEATURE=no)
 \-\-enable-FEATURE&#91;=ARG&#93;                              include FEATURE &#91;ARG=yes&#93;
@@ -32,7 +33,8 @@ Optional Features:
 \-\-enable-debug                                              Build in debugging mode
 \-\-enable-profiling                                          Enable profiling using gprof
 
-Some influential environment variables: pickiness
+### Some influential environment variables:
+
 CXX         C++ compiler command
 CXXFLAGS    C++ compiler flags
 LDFLAGS     linker flags, e.g. -L\<lib dir\> if you have libraries in a
@@ -78,7 +80,7 @@ For information on licensing see [LICENSE.md](LICENSE.md)
 
 [arch-url]: https://www.archlinux.org/
 [a8-url]: https://archiv8.github.io/
-[a8-contrib-url]: https://github.com/Archiv8/etl/people
+[a8-contrib-url]: https://github.com/Archiv8/synfig-etl/people
 [cc-url]: http://creativecommons.org/licenses/by-sa/4.0/
 [change-url]: https://keepachangelog.com
 [commits-url]: https://conventionalcommits.org
