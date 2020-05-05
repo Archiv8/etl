@@ -8,7 +8,7 @@ _partname="etl"
 
 # pkgbase=
 pkgname="${_relname}-${_partname}"
-pkgver=1.3.12
+pkgver=1.3.14
 pkgrel=1
 # epoch=
 pkgdesc="A multi-platform class and template library that adds new datatypes and functions which combine well with those from the C++ Standard Template Library"
@@ -44,7 +44,7 @@ source=(
 )
 # noextract=()
 # validpgpkeys=()
-sha256sums=('122cb3ea04ec91ef428695c84fc6b42dbdd54641ab75a40705d1d0ea9377a8f1'
+sha256sums=('f2872c0c1cea9c60f4ddcb36439963b33b3d5cba790d7a800c2923fd0b4ef1cb'
             'b92d2feed74cb73994f5b76ec511abafa12ed5b681db844191c4e32939948aaf'
             'a6bbded8c6e93eab74d8e738b24620f2ac968b9774729fe5ee12f032b706e913'
             '8177592fe733e9183ee400ed6c396793f0e188844f2dd775caceb0fde3503443'
