@@ -9,7 +9,7 @@ _partname="etl"
 
 
 # pkgbase=
-pkgname="${_relname}-${_partname}"
+pkgname="${_partname}"
 pkgver=1.3.14
 pkgrel=1
 # epoch=
@@ -22,7 +22,7 @@ license=("GPL2")
 # optdepends=()
 makedepends=("git")
 # checkdepends=()
-provides=("etl=1.3.14")
+# provides=()
 conflicts=("etl")
 replaces=("etl")
 # backup=()
