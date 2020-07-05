@@ -9,7 +9,7 @@ _partname="etl"
 
 
 # pkgbase=
-pkgname="${_partname}"
+pkgname="${_relname}-${_partname}"
 pkgver=1.3.14
 pkgrel=1
 # epoch=
@@ -18,7 +18,7 @@ arch=("x86_64")
 url="https://www.synfig.org/"
 license=("GPL2")
 # groups=()
-# depends=()
+depends=("bash")
 # optdepends=()
 makedepends=("git")
 # checkdepends=()
@@ -59,9 +59,9 @@ sha256sums=('f2872c0c1cea9c60f4ddcb36439963b33b3d5cba790d7a800c2923fd0b4ef1cb'
 prepare () {
 
   # Change to the Synfig ETL directory
-  cd "${srcdir}/${_pkgname}/${_relname}-${pkgver}/ETL"
+  cd "${srcdir}/${_relname}-${pkgver}/ETL"
 
-  # Bootstrap as not installing via provided scripts.
+    # Bootstrap as not installing using scripts at project root, i.e, ./1-setup-linux-native.sh, 2-build-production.sh
   ./bootstrap.sh
 
   # Run configure script
@@ -85,8 +85,6 @@ package() {
 
   # Change to the Synfig ETL directory
   cd "${srcdir}/${_relname}-${pkgver}/ETL"
-
-  echo This Package Directory $pkgdir
 
   # Install the Synfig ETL library
   make DESTDIR="${pkgdir}" install

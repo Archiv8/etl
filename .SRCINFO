@@ -7,7 +7,7 @@ pkgbase = synfig-etl
 	arch = x86_64
 	license = GPL2
 	makedepends = git
-	provides = etl=1.3.14
+	depends = bash
 	conflicts = etl
 	replaces = etl
 	source = synfig-v1.3.14.tar.gz::https://github.com/synfig/synfig/archive/v1.3.14.tar.gz
