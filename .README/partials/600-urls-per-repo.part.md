@@ -1,0 +1,13 @@
+[a8-url-contrib]: https://github.com/orgs/Archiv8/people
+[a8-url-repo]: https://github.com/Archiv8/synfig-etl
+[a8-url-repo-contrib]: https://github.com/Archiv8/synfig-etl/people
+[a8-url-repo-doc]: https://github.com/Archiv8/synfig-etl/blob/master/README.md
+[a8-url-repo-issue]: https://github.com/Archiv8/synfig-etl/issues
+[a8-url-repo-release]: https://github.com/Archiv8/synfig-etl/releases
+[a8-url-repo-tag]: https://github.com/Archiv8/synfig-etl/tags
+[upstream-url-doc]: https://github.com/synfig/synfig/blob/master/README.md
+[upstream-url-issue]: https://github.com/synfig/synfig/issues
+[upstream-url-dev-doc]: https://synfig-docs-dev.readthedocs.io/en/latest/
+[upstream-url-release]: https://github.com/synfig/synfig/releases
+[upstream-url-tags]: https://github.com/synfig/synfig/tags
+[upstream-url-repo]: https://github.com/synfig/synfig/

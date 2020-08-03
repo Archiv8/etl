@@ -13,31 +13,10 @@ _Exploring and Sharing Custom PKGBUILDs for [Arch Linux][arch-url]_
 
 ---
 
-<a name="archiv8-a8-url-the-mit-license-mit"></a>
-## The MIT License (MIT)
+<a name="archiv8-a8-url-commit-log"></a>
+## Commit Log
 
-Copyright © 2017 to 2019 Ross Clark and Contributors
-
-Permission is hereby granted, free of charge, to any person
-obtaining a copy of this software and associated documentation
-files (the “Software”), to deal in the Software without
-restriction, including without limitation the rights to use,
-copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the
-Software is furnished to do so, subject to the following
-conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
-OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
-HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+This repository follows, as closely as possible, the specification outlined by [Conventional Commits][commits-url].  Modifications have been implemented by Archiv8, particularly where the original guidelines relate to semantic versioning.  For the reasoning behind these and any other changes please refer to the [relevant pages][a8-url-commits] on the Archiv8 website.
 
 ---
 

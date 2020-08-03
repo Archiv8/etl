@@ -1,0 +1,1 @@
+_This repository contains unofficial packaging for an installation of **[Synfig's ETL][upstream-url-repo]**.  It is not affiliated, authorized, endorsed by, or in other way connected with either **[Arch Linux][arch-url]** or the **[Synfig][upstream-url-repo] project**._

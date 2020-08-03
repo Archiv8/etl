@@ -1,27 +1,9 @@
-<a name="archiv8-a8-url"></a>
-# [Archiv8][a8-url]
-
-_Exploring and Sharing Custom PKGBUILDs for [Arch Linux][arch-url]_
-
----
-
-[![Chat on Gitter][gitter-url-badge]][gitter-url] [![Contributor Covenant, version 2.0.0, adopted][covenant-url-badge]](CODE-OF-CONDUCT.md) [![Developer Certificate of Origin, version 1.1.0, adopted][certificate-url-badge]](DEVELOPER-CERTIFICATE-OF-ORIGIN.md)
-
----
-
-[Readme](README.md) || [Install](INSTALL.md) || [Contribute](CONTRIBUTE.md) || [License](LICENSE.md) || [Changelog](CHANGELOG.md) || [Issues](ISSUES.md) || [Security](SECURITY.md)
-
----
-
-<a name="archiv8-a8-url-creative-commons"></a>
 ## Creative Commons
 
-<a name="archiv8-a8-url-creative-commons-attribution-sharealike-4-0-international"></a>
 ### Attribution-ShareAlike 4.0 International
 
 Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
 
-<a name="archiv8-a8-url-creative-commons-attribution-sharealike-4-0-international-using-creative-commons-public-licenses"></a>
 #### Using Creative Commons Public Licenses
 
 Creative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.
@@ -32,12 +14,10 @@ Creative Commons public licenses provide a standard set of terms and conditions 
 
 ---
 
-<a name="archiv8-a8-url-creative-commons-creative-commons-attribution-sharealike-4-0-international-public-license"></a>
 ### Creative Commons Attribution-ShareAlike 4.0 International Public License
 
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licenser grants You such rights in consideration of benefits the Licenser receives from making the Licensed Material available under these terms and conditions.
 
-<a name="archiv8-a8-url-creative-commons-creative-commons-attribution-sharealike-4-0-international-public-license-section-1-definitions"></a>
 #### Section 1 – Definitions
 
 ---
@@ -70,7 +50,6 @@ m) **You** means the individual or entity exercising the Licensed Rights under t
 
 ---
 
-<a name="archiv8-a8-url-creative-commons-creative-commons-attribution-sharealike-4-0-international-public-license-section-2-scope"></a>
 #### Section 2 – Scope
 
 a) _**License grant.**_
@@ -107,7 +86,6 @@ b) _**Other rights.**_
 
 ---
 
-<a name="archiv8-a8-url-creative-commons-creative-commons-attribution-sharealike-4-0-international-public-license-section-3-license-conditions"></a>
 #### Section 3 – License Conditions
 
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
@@ -148,11 +126,7 @@ In addition to the conditions in Section 3(a), if You Share Adapted Material You
 
 ---
 
-<a name="archiv8-a8-url-creative-commons-creative-commons-attribution-sharealike-4-0-international-public-license-section-4-sui-generis-database-rights"></a>
-
 #### Section 4 – Sui Generis Database Rights
-
-sui
 
 Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
 
@@ -166,7 +140,6 @@ _**For the avoidance of doubt, this Section 4 supplements and does not replace Y
 
 ---
 
-<a name="archiv8-a8-url-creative-commons-creative-commons-attribution-sharealike-4-0-international-public-license-section-5-disclaimer-of-warranties-and-limitation-of-liability"></a>
 #### Section 5 – Disclaimer of Warranties and Limitation of Liability
 
 a) **Unless otherwise separately undertaken by the Licenser, to the extent possible, the Licenser offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.**
@@ -177,7 +150,6 @@ c) **The disclaimer of warranties and limitation of liability provided above sha
 
 ---
 
-<a name="archiv8-a8-url-creative-commons-creative-commons-attribution-sharealike-4-0-international-public-license-section-6-term-and-termination"></a>
 #### Section 6 – Term and Termination
 
 a) This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
@@ -196,14 +168,12 @@ d) Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
 
 ---
 
-<a name="archiv8-a8-url-creative-commons-creative-commons-attribution-sharealike-4-0-international-public-license-section-7-other-terms-and-conditions"></a>
 #### Section 7 – Other Terms and Conditions
 
 a) The Licenser shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
 
 b) Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.
 
-<a name="archiv8-a8-url-creative-commons-creative-commons-attribution-sharealike-4-0-international-public-license-section-8-interpretation"></a>
 #### Section 8 – Interpretation
 
 a) For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.
@@ -214,102 +184,8 @@ c) No term or condition of this Public License will be waived and no failure to 
 
 d) Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licenser or You, including from the legal processes of any jurisdiction or authority.
 
-> Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licenser.” The text of the Creative Commons public licenses is dedicated to the public domain under the [CC0 Public Domain Dedication][cc-url-public-domain-legal]. Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](http://creativecommons.org/policies), Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.
+> Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licenser.” The text of the Creative Commons public licenses is dedicated to the public domain under the [CC0 Public Domain Dedication][cc-url-public-domain-legal]. Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies][cc-url-policies], Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.
 >
 > Creative Commons may be contacted at creativecommons.org.
 
 ---
-
-[![To repository navigation](arrow-heading-up_16-16.png)](#package-name) [Navigation](#package-name)
-
----
-
-<a name="archiv8-a8-url-issues"></a>
-## Issues
-
-+ Issues with the packaging downloaded from this repository should be filed [here][a8-url-repo-issue]
-+ The [Archiv8 website][a8-url] gives help on submitting an issue
-+ Issues outside the scope of packaging should be lodged with the upstream developers, [following their policy][upstream-url-issue]
-+ If unsure where the issue lies ask via the [issue page][a8-url-repo-issue] for this package
-
----
-
-[![To repository navigation](arrow-heading-up_16-16.png)](#package-name) [Navigation](#package-name)
-
----
-
-[![Conventional Commits, version 1.0.0, adopted][commits-url-badge]][commits-url] [![Keep a Changelog, version 1.0.0, adopted][changelog-url-badge]][change-url] [![Semantic Versioning, version 2.0.0, adopted][semver-url-badge]][semver-url] [![Code Released Under MIT License][mit-url-badge]][mit-url] [![Documentation Released Under Creative Commons, Attribution ShareAlike, 4.0.0 License][cc-url-badge]][cc-url-terms]
-
----
-
-Thanks go [everyone][a8-url-repo-contrib] who have contributed to this package, as well as [contributors][a8-url-contrib] to other aspects of Archiv8.
-
----
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Documentation for this project is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
-Any original software produced for [Archiv8][a8-url] and / or quoted within the documentation is released under the MIT License.
-
-The license for upstream software, including the Arch Linux packaging tools used in the creation of this package, remains as designated by its creator and contributors.
-
-(c) Documentation and Code, 2017 - 2020 Ross Clark
-
-For further information on licensing see [LICENSE.md](LICENSE.md)
-
-_This repository contains unofficial packaging for an installation of **[Synfig's ETL][upstream-url-repo]**.  It is not affiliated, authorized, endorsed by, or in other way connected with either **[Arch Linux][arch-url]** or the **[Synfig][upstream-url-repo] project**._
-
-[![To repository navigation](arrow-heading-up_16-16.png)](#package-name) [Navigation](#package-name)
-
----
-
-[a8-url-contrib]: https://github.com/orgs/Archiv8/people
-[a8-url-repo]: https://github.com/Archiv8/synfig-etl
-[a8-url-repo-contrib]: https://github.com/Archiv8/synfig-etl/people
-[a8-url-repo-doc]: https://github.com/Archiv8/synfig-etl/blob/master/README.md
-[a8-url-repo-issue]: https://github.com/Archiv8/synfig-etl/issues
-[a8-url-repo-release]: https://github.com/Archiv8/synfig-etl/releases
-[a8-url-repo-tag]: https://github.com/Archiv8/synfig-etl/tags
-[upstream-url-doc]: https://github.com/synfig/synfig/blob/master/README.md
-[upstream-url-issue]: https://github.com/synfig/synfig/issues
-[upstream-url-dev-doc]: https://synfig-docs-dev.readthedocs.io/en/latest/
-[upstream-url-release]: https://github.com/synfig/synfig/releases
-[upstream-url-tags]: https://github.com/synfig/synfig/tags
-[upstream-url-repo]: https://github.com/synfig/synfig/
-
-[arch-url]: https://www.archlinux.org/
-[arch-url-aurutils]: https://www.archlinux.org/
-[arch-url-makepkg]: https://wiki.archlinux.org/index.php/Makepkg
-[arch-url-pacman]: https://wiki.archlinux.org/index.php/Pacman
-[arch-url-wiki]: https://wiki.archlinux.org/
-[aur-url-aurutils]:https://aur.archlinux.org/packages/aurutils/
-[aur-url-guide]: https://wiki.archlinux.org/index.php/Arch_User_Repository
-[aur-url-yay]: https://www.archlinux.org/
-[a8-url]: https://archiv8.github.io/
-[change-url]: https://keepachangelog.com
-[clam-url]: https://www.clamav.net/
-[conduct-url-faq]: https://www.contributor-covenant.org/faq>
-[conduct-url-trans]: https://www.contributor-covenant.org/translations
-[moz-url-diverse]: https://github.com/mozilla/diversity
-[namcap-url]: https://wiki.archlinux.org/index.php/Namcap
-
-[cc-url-badge]: https://img.shields.io/badge/License-CC%20by%20SA%204.0.0-informational.svg
-[certificate-url-badge]: https://img.shields.io/badge/Developer%20Certificate%20of%20Origin-1.1.0-informational.svg
-[changelog-url-badge]: https://img.shields.io/badge/Keep%20a%20Changelog-1.1.0-informational
-[commits-url-badge]: https://img.shields.io/badge/Conventional%20Commits-1.0.0-informational.svg
-[commits-url]: https://conventionalcommits.org
-[covenant-url-badge]: https://img.shields.io/badge/Contributor%20Covenant-2.0.0-informational.svg
-[covenant-url]: https://www.contributor-covenant.org/
-[gitter-url-badge]: https://badges.gitter.im/Archiv8/community.svg
-[gitter-url]: https://gitter.im/Archiv8/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
-[mit-url-badge]: https://img.shields.io/badge/License-MIT-informational.svg
-[mit-url]: https://opensource.org/licenses/MIT
-[semver-url-badge]: https://img.shields.io/badge/Semantic%20Versioning-2.0.0-informational.svg
-[semver-url]: https://semver.org
-
-[cc-url-image]: https://i.creativecommons.org/l/by-sa/4.0/80x15.png
-
-[cc-url-compat]: http://creativecommons.org/compatiblelicenses
-[cc-url-consider]: http://wiki.creativecommons.org/Considerations_for_Licensers_and_licensees#Considerations_for_Licensers
-[cc-url-terms]: http://creativecommons.org/licenses/by-sa/4.0/
-[wipo-url]: https://www.wipo.int/
-[96-9-ec-url]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:31996L0009&from=EN

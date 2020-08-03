@@ -13,31 +13,10 @@ _Exploring and Sharing Custom PKGBUILDs for [Arch Linux][arch-url]_
 
 ---
 
-<a name="archiv8-a8-url-the-mit-license-mit"></a>
-## The MIT License (MIT)
+<a name="security"></a>
+# SECURITY
 
-Copyright © 2017 to 2019 Ross Clark and Contributors
-
-Permission is hereby granted, free of charge, to any person
-obtaining a copy of this software and associated documentation
-files (the “Software”), to deal in the Software without
-restriction, including without limitation the rights to use,
-copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the
-Software is furnished to do so, subject to the following
-conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
-OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
-HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+text
 
 ---
 
@@ -45,7 +24,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 ---
 
-<a name="archiv8-a8-url-issues"></a>
+<a name="security-issues"></a>
 ## Issues
 
 + Issues with the packaging downloaded from this repository should be filed [here][a8-url-repo-issue]

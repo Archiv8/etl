@@ -13,31 +13,32 @@ _Exploring and Sharing Custom PKGBUILDs for [Arch Linux][arch-url]_
 
 ---
 
-<a name="archiv8-a8-url-the-mit-license-mit"></a>
-## The MIT License (MIT)
+<a name="archiv8-a8-url-notes-and-queries"></a>
+## Notes and Queries
 
-Copyright © 2017 to 2019 Ross Clark and Contributors
+<a name="archiv8-a8-url-notes-and-queries-latest-namcap-checking"></a>
+### Latest namcap checking
 
-Permission is hereby granted, free of charge, to any person
-obtaining a copy of this software and associated documentation
-files (the “Software”), to deal in the Software without
-restriction, including without limitation the rights to use,
-copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the
-Software is furnished to do so, subject to the following
-conditions:
+<a name="archiv8-a8-url-notes-and-queries-latest-namcap-checking-pkgbuild-2020-07-27"></a>
+#### PKGBUILD, 2020-07-27
 
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
+No report
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
-OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
-HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+<a name="archiv8-a8-url-notes-and-queries-latest-namcap-checking-package-2020-07-27"></a>
+#### Package, 2020-07-27
+
+synfig-etl W: No ELF files and not an "any" package
+synfig-etl I: Script link detected (sh) in file \['usr/bin/ETL-config'\]
+synfig-etl I: Dependency covered by dependencies from link dependence (libncursesw.so)
+synfig-etl I: Dependency covered by dependencies from link dependence (linux-api-headers)
+synfig-etl I: Dependency covered by dependencies from link dependence (gcc-libs)
+synfig-etl I: Dependency covered by dependencies from link dependence (iana-etc)
+synfig-etl I: Dependency covered by dependencies from link dependence (glibc)
+synfig-etl I: Dependency covered by dependencies from link dependence (tzdata)
+synfig-etl I: Dependency covered by dependencies from link dependence (readline)
+synfig-etl I: Dependency covered by dependencies from link dependence (filesystem)
+synfig-etl I: Dependency covered by dependencies from link dependence (ncurses)
+synfig-etl I: Depends as namcap sees them: depends=(bash)
 
 ---
 
