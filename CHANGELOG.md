@@ -16,7 +16,7 @@ _Exploring and Sharing Custom PKGBUILDs for [Arch Linux][arch-url]_
 <a name="archiv8-a8-url-changelog"></a>
 ## Changelog
 
-This repository follows, as closely as possible, the specification outlined by [keep a changelog][change-url].  Modifications have been implemented by Archiv8, particularly where the original guidelines relate to semantic versioning.  For differences implemented by Archiv8 and reasoning behind them please refer to [relevant pages][a8-url-changes] on the Archiv8 website.
+This repository follows, as closely as possible, the specification outlined by [keep a changelog][change-url].  Modifications to these specifications have been implemented by Archiv8. Developers should note that guidelines relating to semantic versioning do not cover the packaging process; the versioning follows the upstream source.  For differences implemented by Archiv8 and reasoning behind them please refer to the [relevant pages][a8-url-changes] on the Archiv8 website.
 
 ---
 
@@ -110,6 +110,8 @@ _This repository contains unofficial packaging for an installation of **[Synfig'
 
 [cc-url-compat]: http://creativecommons.org/compatiblelicenses
 [cc-url-consider]: http://wiki.creativecommons.org/Considerations_for_Licensers_and_licensees#Considerations_for_Licensers
+[cc-url-public-domain-legal]: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+[cc-url-policies]: http://creativecommons.org/policies
 [cc-url-terms]: http://creativecommons.org/licenses/by-sa/4.0/
 [wipo-url]: https://www.wipo.int/
 [96-9-ec-url]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:31996L0009&from=EN
