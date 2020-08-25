@@ -16,19 +16,23 @@ _Exploring and Sharing Custom PKGBUILDs for [Arch Linux][arch-url]_
 <a name="archiv8-a8-url-license"></a>
 ## License
 
-The copyright holder reserves the right to update or change the lincensing for the contents of this repository as required.
+<a name="archiv8-a8-url-license-pckaging"></a>
+### Pckaging
 
-<a name="archiv8-a8-url-license-code"></a>
-### Code
+<a name="archiv8-a8-url-license-pckaging-code"></a>
+#### Code
 
 Original code produced for [Archiv8][a8-url] is released under the [MIT](_MIT.md_) license.
 
-_**Licensing and copyright for upstream code, including the software to be packaged and packaging tools used in the creation of this package, remains as designated by their author and contributors.**_
-
-<a name="archiv8-a8-url-license-documentation"></a>
-### Documentation
+<a name="archiv8-a8-url-license-pckaging-documentation"></a>
+#### Documentation
 
 [![Creative Commons License][cc-image]][cc-terms-url] Documentation is licensed using the [_Creative Commons Attribution-ShareAlike 4.0 International License_](CC-BY-SA-V4.md)
+
+<a name="archiv8-a8-url-license-pckaging-upstream"></a>
+#### Upstream
+
+_**Licensing and copyright for upstream code, including the software to be packaged, documentation and packaging tools used in the creation of this package, remains as designated by their author and contributors.**_
 
 <a name="archiv8-a8-url-attribution"></a>
 ## Attribution
