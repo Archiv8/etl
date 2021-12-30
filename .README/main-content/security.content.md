@@ -1,5 +1,0 @@
-# SECURITY
-
-text
-
----
