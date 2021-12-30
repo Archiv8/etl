@@ -1,4 +1,3 @@
-<a name="archiv8-a8-url"></a>
 # [Archiv8][a8-url]
 
 _Exploring and Sharing Custom PKGBUILDs for [Arch Linux][arch-url]_
@@ -22,7 +21,7 @@ _Exploring and Sharing Custom PKGBUILDs for [Arch Linux][arch-url]_
 <a name="archiv8-a8-url-license-pckaging-code"></a>
 #### Code
 
-Original code produced for [Archiv8][a8-url] is released under the [MIT](_MIT.md_) license.
+Original code produced for [Archiv8][a8-url] is released under the [MIT](_MIT.md_) license unless otherwise stated.
 
 <a name="archiv8-a8-url-license-pckaging-documentation"></a>
 #### Documentation
