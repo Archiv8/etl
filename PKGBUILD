@@ -18,7 +18,7 @@ _relname="synfig"
 
 pkgname="etl"
 pkgver=1.5.1
-pkgrel=1
+pkgrel=2
 pkgdesc="VoriaETL: C++ STL complementory multiplatform template library"
 arch=(
   "x86_64"
@@ -30,6 +30,9 @@ arch=(
 url="http://synfig.org"
 license=(
   "GPL2"
+)
+depends=(
+  "sh"
 )
 makedepends=("glibmm")
 conflicts=(
@@ -43,7 +46,7 @@ provides=(
 )
 source=(
   "${_relname}-${pkgver}.tar.gz"::"https://github.com/synfig/synfig/archive/v$pkgver.tar.gz"
-  )
+)
 sha512sums=(
   "0c1dd53a445f037bcdb742d7c17d1d3a2039e80d3e49f5cd67119fb9792d96b47154874d5be42d36443b0d09c61b7864dfe33ebd5f3998783c54eb3cc936d11b"
 )
